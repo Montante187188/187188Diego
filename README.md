@@ -5,7 +5,7 @@
 <title>UNIDAD 1 | ACTIVIDAD 0</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <meta charset = "utf-8">
-<meta name = "Autor" content="Morales García Carlos Alberto">
+<meta name = "Autor" content="Diego Alberto Montante Tapia">
 <meta name = "Fecha" content="">
 <meta name = "Descripción" content="??">
 </head>

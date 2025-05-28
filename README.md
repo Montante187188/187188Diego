@@ -11,7 +11,7 @@
 </head>
 <body>
 </ol></li>
-<li><h2>Assasin's creed: Proyecto</h2></li> <a href="">Link</a><br>
+<li><h2>Assasin's creed: Proyecto</h2></li> <a href="Cover 2.html">Link</a><br>
 
 </ul><br>
 
